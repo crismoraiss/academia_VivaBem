@@ -21,7 +21,3 @@ A plataforma traz um design responsivo e interativo, permitindo que os usuários
   <li><strong>📰 Notícias e Artigos:</strong> Módulo para exibição de conteúdos sobre saúde, bem-estar e dicas de treino, mantendo os alunos informados e engajados.</li><br>
 </ul>
 
----
-
-<h2>🖥️ Desenvolvimento</h2>
-<p>Desenvolvido utilizando tecnologias modernas para front-end e back-end, garantindo uma experiência otimizada para clientes e administradores</p>
